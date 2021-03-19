@@ -76,3 +76,8 @@ namespace MyApplication
 }
 ```
 
+# Tablas
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| Santiago | Mauhourat | 22298232 |
+| Juan | Perez | 12298232 |
