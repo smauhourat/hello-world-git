@@ -81,3 +81,10 @@ namespace MyApplication
 | ------ | -------- | --------- |
 | Santiago | Mauhourat | 22298232 |
 | Juan | Perez | 12298232 |
+
+# Citas
+Esto es un texto referente a una cita que pondremos debajo: 
+> Esto es una cita
+
+Esto es un texto que no se relaciona con la cita anterior
+> Esto es otra cita
